@@ -1,4 +1,4 @@
 datasciencecoursera
 ===================
 
-Evaluation test 
+Evaluation test for Coursera
